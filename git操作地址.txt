@@ -1,15 +1,15 @@
-1.git ���������ܽ���ַ
+1.git 常用命令总结网址
 http://www.cnblogs.com/mengdd/p/4153773.html
 
-2.git ��װ���裨ͼ����⣩
+2.git 安装步骤（图文详解）
 http://www.ihref.com/read-16377.html
 
-3.Gitʵ�ִӱ���������Ŀ��Զ�ֿ̲�
+3.Git实现从本地添加项目到远程仓库   （暂时可忽略）
 http://www.ido321.com/225.html
 
-4.���ذ�װsourTree,����git·��������һ����Զ�ֿ̲���ͨ���ļ���
+4.下载安装sourTree,链接git路径，创建一个与远程仓库相通的文件夹
 
-5.����SSH Key������SSH Key
+5.创建SSH Key并设置SSH Key
 
-6.git Bash ָ���û���������
+6.git Bash 指定用户名、邮箱
 http://blog.jobbole.com/78960/
